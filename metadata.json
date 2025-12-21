@@ -1,0 +1,9 @@
+{
+  "name": "MedOS Pro",
+  "description": "Google Cloud-powered Medicare Intelligence & Clinical Advocacy Engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
